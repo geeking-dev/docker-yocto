@@ -1,1 +1,1 @@
-# docker-yocto
+docker-yocto-geekretro
